@@ -1,0 +1,57 @@
+{
+  "projects": [
+    {
+      "name": "projeto javascript II",
+      "budget": "8000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 2498,
+      "services": [
+        {
+          "name": "Mentor",
+          "cost": "1499",
+          "description": "Aulas JavaScript",
+          "id": "b8fe52af-01eb-4ec4-97b7-4e7c313fe400"
+        },
+        {
+          "name": "Dev PHP",
+          "cost": "999",
+          "description": "Função enviar email",
+          "id": "6264182a-39c5-4c6b-b377-4f46b84596b5"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "React Avançado",
+      "budget": "5000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
